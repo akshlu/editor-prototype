@@ -29,6 +29,12 @@ To create a production build run:
 And open your browser in `resources/public/index.html`. You will not
 get live reloading, nor a REPL. 
 
+### References
+- [ClojureScript](https://clojurescript.org)
+- [Reagent](https://reagent-project.github.io)
+- [re-frame](https://github.com/Day8/re-frame)
+
+
 ## License
 
 Copyright © 2018 Alexey Ustinov
