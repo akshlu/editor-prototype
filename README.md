@@ -1,4 +1,5 @@
 # Editor Prototype
+[![Build Status](https://travis-ci.org/akshlu/editor-prototype.svg?branch=master)](https://travis-ci.org/akshlu/editor-prototype)
 
 ClojureScript prototype of web-based editor for mobile development
 
