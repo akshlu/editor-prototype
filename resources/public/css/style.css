@@ -12,3 +12,30 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.ios {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+android {
+  font-family: Roboto;
+}
+
+.editor-button {
+  text-align: center;
+  cursor: pointer;
+}
+
+.editor-button.ios {
+  color: rgb(0, 122, 255);
+}
+
+.editor-button.android {
+   background-color: #1193f6;
+   color: white;
+   padding: 5px;
+   font-size: 10pt;
+   border-radius: 2px;
+   font-family: Roboto;
+   text-transform: uppercase;
+}

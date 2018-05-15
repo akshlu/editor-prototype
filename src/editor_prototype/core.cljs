@@ -13,7 +13,10 @@
 (defn hello-world []
   [:div
    [:h2 (:text @app-state)]
-   [:h4 "Edit this and watch it change!"]])
+   [:h4 "Buttons"]
+   [components/button {:platform :ios :text "Press me"}]
+   [:br]
+   [components/button {:platform :android :text "Press me"}]])
 
 
 (reagent/render-component [hello-world]
