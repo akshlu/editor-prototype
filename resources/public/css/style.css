@@ -17,8 +17,8 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-android {
-  font-family: Roboto;
+.android {
+  font-family: Roboto, sans-serif;
 }
 
 .editor-button {
@@ -36,6 +36,6 @@ android {
    padding: 5px;
    font-size: 10pt;
    border-radius: 2px;
-   font-family: Roboto;
+   font-family: Roboto, sans-serif;
    text-transform: uppercase;
 }
